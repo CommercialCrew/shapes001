@@ -1,4 +1,4 @@
-# Win2d
+# Win2d(20181106 김성현)
 ## 실행화면
 ![캡처](https://github.com/CommercialCrew/shapes001/assets/101386134/d79a844d-f2cb-48b3-90c3-6782de93ed30)
 
